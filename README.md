@@ -1,1 +1,1 @@
-# Solution_fot_Coursera
+# Solution_for_Coursera
