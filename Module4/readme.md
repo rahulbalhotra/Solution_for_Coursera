@@ -13,4 +13,4 @@ The categories view should list all available categories of items on the menu. E
 
 Make sure that if, while viewing the list of menu items for a particular category, the user copies the URL in the browser's address bar and pastes it into a new tab or a different browser, that the view is the same as the original one.
 
-[See my solution web page](https://github.com/rahulbalhotra/Solution_for_Coursera/Module4/)
+[See my solution web page](https://rahulbalhotra.github.io/Solution_for_Coursera/Module4/)
